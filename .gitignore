@@ -1,2 +1,5 @@
 .vscode/bookmarks.json
 server/keys.json
+server/views/posts.py
+server/config.py
+.DS_Store
